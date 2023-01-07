@@ -1,0 +1,144 @@
+*{
+     margin: 0px; 
+
+
+     /* banner.............. */
+}
+.background{
+    background:url(../images/banner/banner3.png);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.background-text{
+    font-size: 40px;
+    padding: 90px;
+    text-align: right;
+    color: white;
+}
+.background-description{
+    font-size: 15px;
+    text-align: center;
+    padding-left: 900px;
+    
+}
+.contact{
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 30px;
+    background-color: white;
+    color: blue;
+}
+
+/* person............ */
+
+.person{
+    display: flex;
+    padding: 70px;
+}
+.person-info{
+    padding-top: 300px;
+    padding-left: 70px;
+    font-size: 20px;
+}
+.tittle{
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.plans{
+    font-size: 30px;
+    padding-top: 100px;
+    padding-left: 600px;
+    margin-bottom: 50px;
+   
+    
+}
+
+/* language.......... */
+.language{
+    display: flex;
+}
+.language-name{
+    padding-left: 150px;
+    text-align: justify;
+}
+
+/* background watch */
+.background-watch{
+    background:url(../images/watch.png);
+    
+
+    width: 80vw;
+    height: 80vh;
+   margin-left: 150px;
+   margin-top: 200px;
+   border-radius: 25px;
+   
+    background-repeat: no-repeat;
+   
+
+}
+
+
+.background-watch-text{
+    background:url(../images/gradient1.png);
+    opacity: 0.8;
+    width: 80vw;
+    height: 80vh;
+   margin-top: 200px;
+   
+    background-repeat: no-repeat;
+   
+
+}
+
+
+
+
+
+.watch-description{
+    font-size: 45px;
+    color:black;
+}
+.call{
+    font-size: 30px;
+    background-color: white;
+    color: blue;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+/* fotter */
+
+.fotter{
+    display: flex;
+    padding-top: 200px;
+    margin-left: 10px;
+    background-color: black;
+    color: white;
+
+}
+.future{
+   font-size: 50px;
+}
+.fotter-des{
+    width: 500px;
+}
+.sub{
+  margin left: 30px;
+  font-size: 50px;
+  
+}
+.subscribe{
+    padding-left: 300px;
+}
+.footer-future{
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+   .btn{
+    background-color: blue;
+    font-size: 30px;
+    padding: 5px;
+   }
